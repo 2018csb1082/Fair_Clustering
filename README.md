@@ -1,16 +1,14 @@
 # Fair_Clustering
 Fair Clustering via Equitable Group Representations
 The code here is an implementation of the paper [Fair Clustering via Equitable Group Representations](https://arxiv.org/pdf/2006.11009.pdf)
-In the paper, the algorithms were explained to solve the problem but the code was not shared. I have implemented 1 of the algorithms (LS-Fair) and uploaded it here.
+In the paper, the algorithms were explained to solve the problem but the code was not shared. I have implemented 1 of the algorithms (**LS-Fair**) and uploaded it here.
 
 ## Some points to note:
 
 1. This code works on bank dataset (Also provided in repository).
 2. This code implements LS - Fair algorithm explained in the paper.
 3. LS fair is a modified K-median algorithm which uses a new cost function which ensures equal representations of all groups.
-4. In this dataset the two groups are:
-  1. Single
-  2. Married
+4. In this dataset the two groups are - **Single** and **Married**
 
 ## Code Explanation
 
@@ -27,7 +25,7 @@ The code can be divided into 4 parts:
 3. Run Fair_Clustering.py.
 
 ### by:
-Daksh Sharma
+*Daksh Sharma
 Final Year Undergraduate
 B.Tech Computer Science and Engineering
-IIT Ropar
+IIT Ropar*
