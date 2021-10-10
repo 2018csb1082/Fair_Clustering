@@ -25,7 +25,11 @@ The code can be divided into 4 parts:
 3. Run Fair_Clustering.py.
 
 ### by:
+
 *Daksh Sharma*
+
 *Final Year Undergraduate*
+
 *B.Tech Computer Science and Engineering*
+
 *IIT Ropar*
